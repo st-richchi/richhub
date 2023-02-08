@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Rich Github Pages should deploy. Version 4</h1>
-        <h3>Not sure why the page is blank now.</h3>
+        <h3>what is the actual thing to do!</h3>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
